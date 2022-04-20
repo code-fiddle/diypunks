@@ -1,6 +1,6 @@
 {
   "name": "diypunks",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "scripts": {
     "codegen": "graph codegen",
     "build": "graph build",
